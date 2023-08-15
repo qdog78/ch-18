@@ -6,9 +6,9 @@ const Thought = require('../models/thought');
 
 // Sample data
 const sampleUsers = [
-  { username: 'user1' },
-  { username: 'user2' },
-  { username: 'user3' },
+  { username: 'user1', email: 'quin@hotmail.com' },
+  { username: 'user2',  email: 'qu2in@hotmail.com' },
+  { username: 'user3',  email: 'qui4n@hotmail.com'},
 ];
 
 const sampleThoughts = [
